@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Deliver (0.2.3):
+    - Alamofire
+    - RxSwift
+    - SwiftyJSON
+  - RxSwift (6.0.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Deliver (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - RxSwift
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Deliver:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Deliver: f6dfe41a7cd526207ef577d35681bcf2612dcd48
+  RxSwift: c14e798c59b9f6e9a2df8fd235602e85cc044295
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: a4839860213c09066557350e87cbfa2c9d50a451
+
+COCOAPODS: 1.10.0
